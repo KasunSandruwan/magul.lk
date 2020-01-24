@@ -1,0 +1,16 @@
+.router-cont {
+  min-height: 100vh;
+  max-width: 100vw !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+
+@media (max-width: 420px) {
+  .router-cont {
+    min-height: 100vh;
+    max-width: 100vw !important;
+    padding: 0 !important;
+    overflow: hidden;
+  }
+}
+

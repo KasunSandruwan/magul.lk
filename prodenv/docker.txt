@@ -1,0 +1,8 @@
+docker build -t user/node-web-app .
+
+docker images
+
+docker run -p 49160:4200 -d user/node-web-app
+
+docker ps
+docker logs <container id>

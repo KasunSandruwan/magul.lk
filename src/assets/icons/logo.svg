@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158.756" height="48.298" viewBox="0 0 158.756 48.298">
+  <g id="Group_3" data-name="Group 3" transform="translate(-125.209 -48.461)">
+    <path id="Path_1" data-name="Path 1" d="M156.67,65.013a5.737,5.737,0,0,1,2.489,10.194,4.769,4.769,0,0,0-1.96-7.573,5.48,5.48,0,0,0-6.433,3.373c-.984,2.588.118,6.444,2.568,7.735,2.9,1.621,6.518.169,8.852-2.19a7.383,7.383,0,0,0,1.156-8.865,9.921,9.921,0,0,0-18.481,2.383,13.636,13.636,0,0,0,19.646,15.516q-4.227,5.375-15.516,11.173-26.316-14.643-23.512-30.5a13.213,13.213,0,0,1,20.97-8.579q-3.891,1.956-5.533,8.049,12.373-16.768,25.6-7.281a14.4,14.4,0,0,1,1.907,21.288A15.04,15.04,0,0,1,151.8,82.17a9.149,9.149,0,0,1,4.872-17.157" fill="#fff" fill-rule="evenodd"/>
+    <text id="mag" transform="translate(176.878 78.461)" fill="#fff" font-size="27.773" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">mag</tspan></text>
+    <text id="ul." transform="translate(233.425 78.461)" fill="#fff" font-size="27.773" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ul.</tspan></text>
+    <text id="lk" transform="translate(263.253 78.461)" fill="#fff" font-size="17.233" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">lk</tspan></text>
+    <text id="TM" transform="translate(273.965 61.63)" fill="#fff" font-size="6.655" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TM</tspan></text>
+  </g>
+</svg>
